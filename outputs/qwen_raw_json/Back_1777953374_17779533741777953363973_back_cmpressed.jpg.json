@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"5N1DR2M55KC575412\",\n  \"model_year\": \"2019\",\n  \"origin\": \"UNITED STATES\",\n  \"vehicle_description\": \"NISSAN PATHFINDER\"\n}\n```",
+    "chassis_no": "5N1DR2M55KC575412",
+    "model_year": "2019",
+    "origin": "UNITED STATES",
+    "vehicle_description": "NISSAN PATHFINDER",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"5N1DR2M55KC575412\",\n  \"model_year\": null,\n  \"origin\": null,\n  \"vehicle_description\": null\n}\n```",
+    "chassis_no": "5N1DR2M55KC575412",
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": true
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": "outputs\\qwen_crops\\Back_1777953374_17779533741777953363973_back_cmpressed_chassis_crop.jpg"
+}

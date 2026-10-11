@@ -1,0 +1,25 @@
+filename,ground_truth_chassis_no,predicted_chassis_no,raw_qwen_chassis_no,qwen_raw_output,qwen_input_type,qwen_crop_path,ocr_status,candidate_pool,repair_attempts,best_repair_method,best_repair_distance,best_repair_confidence,edit_distance,failure_reason,possible_wrong_field
+Back_1777952761_1777952761image2.jpg,3PCAJ5M22SF104052,,KZ0107893H,"```json
+{
+  ""chassis_no"": ""KZ0107893H"",
+  ""model_year"": ""2025"",
+  ""origin"": ""Mexico"",
+  ""vehicle_description"": ""INF NITI 50 CX""
+}
+```",full_only,,success,"KZ0107893H [qwen_full] (invalid, 1.0000)",,,,,,wrong_field,unknown
+Back_1777963434_17779634341777963433541_back_cmpressed.jpg,5N1DR3MR9RC244870,,VQ35815756W,"```json
+{
+  ""chassis_no"": ""VQ35815756W"",
+  ""model_year"": ""2024"",
+  ""origin"": ""UNITED STATES"",
+  ""vehicle_description"": ""NISSAN PATHFINDER""
+}
+```",full_image_ocr_failed,,failed,"VQ35815756W [qwen_full] (invalid, 1.0000)",,,,,,wrong_field,unknown
+Back_1777970943_17779709431777970942315_back_cmpressed.jpg,VF1HSRSC5KA524121,,C192771,"```json
+{
+  ""chassis_no"": ""C192771"",
+  ""model_year"": ""2019"",
+  ""origin"": ""ROMANIA"",
+  ""vehicle_description"": ""RENAULT DUSTER""
+}
+```",full_image_ocr_failed,,failed,"C192771 [qwen_full] (invalid, 1.0000)",,,,,,wrong_field,unknown

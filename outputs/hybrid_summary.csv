@@ -1,0 +1,2 @@
+total_images,correct_predictions,failed_predictions,accuracy,rapidocr_candidates_found_count,rapidocr_accepted_count,rapidocr_rejected_suspicious_count,needs_review_count,qwen_fallback_count,qwen_saved_count,qwen_used_count,crop_qwen_used_count,retry_qwen_used_count,average_runtime_seconds,total_runtime_seconds,mode
+110,109,1,0.990909090909091,110,110,23,23,0,110,0,0,0,26.783021818181815,2946.1323999999995,conservative

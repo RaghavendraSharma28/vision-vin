@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"MDHBN7AD2JG633709\",\n  \"model_year\": \"2018\",\n  \"origin\": \"INDIA\",\n  \"vehicle_description\": \"NISSAN SUNNY\"\n}\n```",
+    "chassis_no": "MDHBN7AD2JG633709",
+    "model_year": "2018",
+    "origin": "INDIA",
+    "vehicle_description": "NISSAN SUNNY",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"MDHBN7AD2JG633709\",\n  \"model_year\": null,\n  \"origin\": null,\n  \"vehicle_description\": null\n}\n```",
+    "chassis_no": "MDHBN7AD2JG633709",
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": true
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": "outputs\\qwen_crops\\Back_1777967304_1777967304image2_chassis_crop.jpg"
+}

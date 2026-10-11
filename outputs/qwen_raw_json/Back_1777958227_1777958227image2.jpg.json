@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"JN6BE6AS8T9080173\",\n  \"model_year\": \"2026\",\n  \"origin\": \"Japan\",\n  \"vehicle_description\": \"NISSAN URVAN\"\n}\n```",
+    "chassis_no": "JN6BE6AS8T9080173",
+    "model_year": "2026",
+    "origin": "Japan",
+    "vehicle_description": "NISSAN URVAN",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"JN6BE6AS8T9080173\",\n  \"model_year\": null,\n  \"origin\": null,\n  \"vehicle_description\": null\n}\n```",
+    "chassis_no": "JN6BE6AS8T9080173",
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": true
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": "outputs\\qwen_crops\\Back_1777958227_1777958227image2_chassis_crop.jpg"
+}

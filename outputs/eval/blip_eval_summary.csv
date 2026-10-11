@@ -1,0 +1,2 @@
+model,test_samples_evaluated,test_samples_skipped,json_parse_rate,chassis_exact_accuracy,model_year_accuracy,origin_accuracy,vehicle_desc_accuracy,avg_runtime_per_image_s,rapidocr_baseline_chassis
+outputs\models\blip_mulkiya,94,0,0.0,0.0,0.0,0.0,0.0,1.066,0.9909

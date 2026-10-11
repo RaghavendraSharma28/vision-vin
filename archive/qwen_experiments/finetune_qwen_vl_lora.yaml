@@ -1,0 +1,14 @@
+model_name: Qwen/Qwen2.5-VL-3B-Instruct
+train_file: outputs/dataset/finetune_train.jsonl
+val_file: outputs/dataset/finetune_val.jsonl
+output_dir: outputs/models/qwen_mulkiya_lora
+epochs: 3
+learning_rate: 0.0002
+batch_size: 1
+gradient_accumulation_steps: 8
+lora_r: 16
+lora_alpha: 32
+lora_dropout: 0.05
+max_image_size: 768
+use_qlora: false
+attn_implementation: eager

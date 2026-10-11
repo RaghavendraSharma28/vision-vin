@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"1GNWK8FGXDR113661\",\n  \"model_year\": \"2013\",\n  \"origin\": \"AMERICA\",\n  \"vehicle_description\": \"CHEVROLET\"\n}\n```",
+    "chassis_no": "1GNWK8FGXDR113661",
+    "model_year": "2013",
+    "origin": "AMERICA",
+    "vehicle_description": "CHEVROLET",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "",
+    "chassis_no": null,
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": false
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": ""
+}

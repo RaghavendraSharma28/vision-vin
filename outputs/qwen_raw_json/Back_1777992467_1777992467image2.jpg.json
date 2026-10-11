@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"JN8AT3MMXRW016151\",\n  \"model_year\": \"2024\",\n  \"origin\": \"JAPAN\",\n  \"vehicle_description\": \"NISSAN X TRAIL\"\n}\n```",
+    "chassis_no": "JN8AT3MMXRW016151",
+    "model_year": "2024",
+    "origin": "JAPAN",
+    "vehicle_description": "NISSAN X TRAIL",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "",
+    "chassis_no": null,
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": false
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": ""
+}

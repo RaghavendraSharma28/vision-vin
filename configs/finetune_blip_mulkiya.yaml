@@ -1,0 +1,17 @@
+model_name: Salesforce/blip-image-captioning-base
+train_file: outputs/dataset/finetune_train.jsonl
+val_file: outputs/dataset/finetune_val.jsonl
+output_dir: outputs/models/blip_mulkiya
+epochs: 5
+learning_rate: 0.00005
+batch_size: 1
+gradient_accumulation_steps: 8
+max_image_size: 384
+max_label_length: 128
+use_lora: true
+lora_r: 8
+lora_alpha: 16
+lora_dropout: 0.05
+device: cpu
+fp16: false
+bf16: false

@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"JN8BY3NY6S9000413\",\n  \"model_year\": \"2025\",\n  \"origin\": \"Japan\",\n  \"vehicle_description\": \"NISSAN PATROL\"\n}\n```",
+    "chassis_no": "JN8BY3NY6S9000413",
+    "model_year": "2025",
+    "origin": "Japan",
+    "vehicle_description": "NISSAN PATROL",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"JN8BY3NY6S9000413\",\n  \"model_year\": null,\n  \"origin\": null,\n  \"vehicle_description\": null\n}\n```",
+    "chassis_no": "JN8BY3NY6S9000413",
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": true
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": "outputs\\qwen_crops\\Back_1777964479_1777964479image2_chassis_crop.jpg"
+}

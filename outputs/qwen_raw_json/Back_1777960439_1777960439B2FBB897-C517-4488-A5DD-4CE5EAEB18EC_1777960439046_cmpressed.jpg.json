@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"MNTAD3N82N6001009\",\n  \"model_year\": \"2022\",\n  \"origin\": \"THAILAND\",\n  \"vehicle_description\": \"NISSAN XTERRA\"\n}\n```",
+    "chassis_no": "MNTAD3N82N6001009",
+    "model_year": "2022",
+    "origin": "THAILAND",
+    "vehicle_description": "NISSAN XTERRA",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"MNTAD3N82N6001009\",\n  \"model_year\": null,\n  \"origin\": null,\n  \"vehicle_description\": null\n}\n```",
+    "chassis_no": "MNTAD3N82N6001009",
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": true
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": "outputs\\qwen_crops\\Back_1777960439_1777960439B2FBB897-C517-4488-A5DD-4CE5EAEB18EC_1777960439046_cmpressed_chassis_crop.jpg"
+}

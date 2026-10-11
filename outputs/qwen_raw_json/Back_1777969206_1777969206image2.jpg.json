@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"JN6BE6BS9P9040043\",\n  \"model_year\": \"2023\",\n  \"origin\": \"Japan\",\n  \"vehicle_description\": \"NISSAN URVAN\"\n}\n```",
+    "chassis_no": "JN6BE6BS9P9040043",
+    "model_year": "2023",
+    "origin": "Japan",
+    "vehicle_description": "NISSAN URVAN",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "",
+    "chassis_no": null,
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": false
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": ""
+}

@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"JN8AY3NY2S9006527\",\n  \"model_year\": \"2025\",\n  \"origin\": \"JAPAN\",\n  \"vehicle_description\": \"NISSAN PATROL\"\n}\n```",
+    "chassis_no": "JN8AY3NY2S9006527",
+    "model_year": "2025",
+    "origin": "JAPAN",
+    "vehicle_description": "NISSAN PATROL",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "",
+    "chassis_no": null,
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": false
+  },
+  "ocr_status": "failed",
+  "qwen_crop_path": ""
+}

@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"5N1AN08W49C508509\",\n  \"model_year\": \"2009\",\n  \"origin\": \"UNITED STATES\",\n  \"vehicle_description\": \"NISSAN XTERRA\"\n}\n```",
+    "chassis_no": "5N1AN08W49C508509",
+    "model_year": "2009",
+    "origin": "UNITED STATES",
+    "vehicle_description": "NISSAN XTERRA",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"5N1AN08W49C508509\",\n  \"model_year\": null,\n  \"origin\": null,\n  \"vehicle_description\": null\n}\n```",
+    "chassis_no": "5N1AN08W49C508509",
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": true
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": "outputs\\qwen_crops\\Back_1777957857_1777957857image2_chassis_crop.jpg"
+}

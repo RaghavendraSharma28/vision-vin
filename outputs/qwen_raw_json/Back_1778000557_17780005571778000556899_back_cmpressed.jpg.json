@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"5N1DR3MR6RC243921\",\n  \"model_year\": \"2024\",\n  \"origin\": \"UNITED STATES\",\n  \"vehicle_description\": \"NISSAN PATHFINDER\"\n}\n```",
+    "chassis_no": "5N1DR3MR6RC243921",
+    "model_year": "2024",
+    "origin": "UNITED STATES",
+    "vehicle_description": "NISSAN PATHFINDER",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "",
+    "chassis_no": null,
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": false
+  },
+  "ocr_status": "failed",
+  "qwen_crop_path": ""
+}

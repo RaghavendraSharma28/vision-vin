@@ -1,0 +1,46 @@
+filename,ground_truth_chassis_no,full_qwen_raw_output,crop_qwen_raw_output,qwen_raw_output,qwen_parse_success,full_qwen_chassis_no,crop_qwen_chassis_no,full_qwen_cleaned_chassis_no,crop_qwen_cleaned_chassis_no,qwen_raw_chassis_no,qwen_cleaned_chassis_no,qwen_input_type,qwen_crop_path,ocr_status,ocr_candidates,final_candidate_pool,candidate_pool,repair_attempts,predicted_chassis_no,best_repair_method,best_repair_distance,best_repair_confidence,final_source,exact_match,correction_method,edit_distance,failure_reason,possible_wrong_field,ground_truth_model_year,qwen_model_year,ground_truth_origin,qwen_origin,ground_truth_vehicle_description,qwen_vehicle_description
+Back_1777952761_1777952761image2.jpg,3PCAJ5M22SF104052,"```json
+{
+  ""chassis_no"": ""KZ0107893H"",
+  ""model_year"": ""2025"",
+  ""origin"": ""Mexico"",
+  ""vehicle_description"": ""INF NITI 50 CX""
+}
+```",,"```json
+{
+  ""chassis_no"": ""KZ0107893H"",
+  ""model_year"": ""2025"",
+  ""origin"": ""Mexico"",
+  ""vehicle_description"": ""INF NITI 50 CX""
+}
+```",True,KZ0107893H,,KZ0107893H,,KZ0107893H,,full_only,,success,,"KZ0107893H [qwen_full] (invalid, 1.0000)","KZ0107893H [qwen_full] (invalid, 1.0000)",,,,,,no_prediction,False,,,wrong_field,unknown,2025,2025,Mexico,Mexico,INFINITI 50 QX,INF NITI 50 CX
+Back_1777963434_17779634341777963433541_back_cmpressed.jpg,5N1DR3MR9RC244870,"```json
+{
+  ""chassis_no"": ""VQ35815756W"",
+  ""model_year"": ""2024"",
+  ""origin"": ""UNITED STATES"",
+  ""vehicle_description"": ""NISSAN PATHFINDER""
+}
+```",,"```json
+{
+  ""chassis_no"": ""VQ35815756W"",
+  ""model_year"": ""2024"",
+  ""origin"": ""UNITED STATES"",
+  ""vehicle_description"": ""NISSAN PATHFINDER""
+}
+```",True,VQ35815756W,,VQ35815756W,,VQ35815756W,,full_image_ocr_failed,,failed,,"VQ35815756W [qwen_full] (invalid, 1.0000)","VQ35815756W [qwen_full] (invalid, 1.0000)",,,,,,no_prediction,False,,,wrong_field,unknown,2024,2024,United States,UNITED STATES,NISSAN PATHFINDER,NISSAN PATHFINDER
+Back_1777970943_17779709431777970942315_back_cmpressed.jpg,VF1HSRSC5KA524121,"```json
+{
+  ""chassis_no"": ""C192771"",
+  ""model_year"": ""2019"",
+  ""origin"": ""ROMANIA"",
+  ""vehicle_description"": ""RENAULT DUSTER""
+}
+```",,"```json
+{
+  ""chassis_no"": ""C192771"",
+  ""model_year"": ""2019"",
+  ""origin"": ""ROMANIA"",
+  ""vehicle_description"": ""RENAULT DUSTER""
+}
+```",True,C192771,,C192771,,C192771,,full_image_ocr_failed,,failed,,"C192771 [qwen_full] (invalid, 1.0000)","C192771 [qwen_full] (invalid, 1.0000)",,,,,,no_prediction,False,,,wrong_field,unknown,2019,2019,Romania,ROMANIA,RENAULT DUSTER,RENAULT DUSTER

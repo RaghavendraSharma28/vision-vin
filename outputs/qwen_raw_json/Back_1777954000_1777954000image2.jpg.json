@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"5NIDR3MR9NC272193\",\n  \"model_year\": \"2022\",\n  \"origin\": \"UNITED STATES\",\n  \"vehicle_description\": \"NISSAN PATHFINDER NISSAN PATHFINDER\"\n}\n```",
+    "chassis_no": "5NIDR3MR9NC272193",
+    "model_year": "2022",
+    "origin": "UNITED STATES",
+    "vehicle_description": "NISSAN PATHFINDER NISSAN PATHFINDER",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"5N1DR3MR9NC272193\",\n  \"model_year\": null,\n  \"origin\": null,\n  \"vehicle_description\": null\n}\n```",
+    "chassis_no": "5N1DR3MR9NC272193",
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": true
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": "outputs\\qwen_crops\\Back_1777954000_1777954000image2_chassis_crop.jpg"
+}

@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"5N1DR3MRXSCZ90973\",\n  \"model_year\": \"2025\",\n  \"origin\": \"AMERICA\",\n  \"vehicle_description\": \"NISSAN\"\n}\n```",
+    "chassis_no": "5N1DR3MRXSCZ90973",
+    "model_year": "2025",
+    "origin": "AMERICA",
+    "vehicle_description": "NISSAN",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"5N1DR3MRXXSC290973\",\n  \"model_year\": null,\n  \"origin\": null,\n  \"vehicle_description\": null\n}\n```",
+    "chassis_no": "5N1DR3MRXXSC290973",
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": true
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": "outputs\\qwen_crops\\Back_1777961050_1777961050image2_chassis_crop.jpg"
+}

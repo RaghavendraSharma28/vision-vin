@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"C192771\",\n  \"model_year\": \"2019\",\n  \"origin\": \"ROMANIA\",\n  \"vehicle_description\": \"RENAULT DUSTER\"\n}\n```",
+    "chassis_no": "C192771",
+    "model_year": "2019",
+    "origin": "ROMANIA",
+    "vehicle_description": "RENAULT DUSTER",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "",
+    "chassis_no": null,
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": false
+  },
+  "ocr_status": "failed",
+  "qwen_crop_path": ""
+}

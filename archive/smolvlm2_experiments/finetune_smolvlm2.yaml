@@ -1,0 +1,13 @@
+model_name: HuggingFaceTB/SmolVLM2-500M-Video-Instruct
+train_file: outputs/dataset/finetune_train.jsonl
+val_file: outputs/dataset/finetune_val.jsonl
+output_dir: outputs/models/smolvlm2_mulkiya
+epochs: 3
+learning_rate: 0.0001
+batch_size: 1
+gradient_accumulation_steps: 8
+max_image_size: 512
+use_lora: true
+lora_r: 16
+lora_alpha: 32
+lora_dropout: 0.05

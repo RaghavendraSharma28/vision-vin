@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"3PCAJS5M3XRF103525\",\n  \"model_year\": \"2024\",\n  \"origin\": \"Mexico\",\n  \"vehicle_description\": \"INFINITI 50 QX\"\n}\n```",
+    "chassis_no": "3PCAJS5M3XRF103525",
+    "model_year": "2024",
+    "origin": "Mexico",
+    "vehicle_description": "INFINITI 50 QX",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "",
+    "chassis_no": null,
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": false
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": ""
+}

@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"MDHBD0FA2SG024470\",\n  \"model_year\": \"2025\",\n  \"origin\": \"INDIA\",\n  \"vehicle_description\": \"NISSAN UNKNOWN\"\n}\n```",
+    "chassis_no": "MDHBD0FA2SG024470",
+    "model_year": "2025",
+    "origin": "INDIA",
+    "vehicle_description": "NISSAN UNKNOWN",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"MDHBD0FA2SG024470\",\n  \"model_year\": null,\n  \"origin\": null,\n  \"vehicle_description\": null\n}\n```",
+    "chassis_no": "MDHBD0FA2SG024470",
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": true
+  },
+  "ocr_status": "success",
+  "qwen_crop_path": "outputs\\qwen_crops\\Back_1777974340_1777974340image2_chassis_crop.jpg"
+}

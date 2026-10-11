@@ -1,0 +1,2 @@
+total_excel_rows,total_image_files,supported_image_files,unsupported_file_count,missing_images_count,unlabelled_images_count,duplicate_filename_count,duplicate_chassis_count,invalid_chassis_count,unreadable_images_count,clean_rows_count,train_count,val_count,test_count,train_ratio,val_ratio,test_ratio,seed
+996,987,987,0,9,0,0,57,0,0,935,748,93,94,0.8,0.1,0.1,42

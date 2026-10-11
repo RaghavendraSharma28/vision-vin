@@ -1,0 +1,20 @@
+{
+  "full_image": {
+    "raw_output": "```json\n{\n  \"chassis_no\": \"MNTAD3N87P6003700\",\n  \"model_year\": \"2023\",\n  \"origin\": \"THAILAND\",\n  \"vehicle_description\": \"NISSAN XTRERRA\"\n}\n```",
+    "chassis_no": "MNTAD3N87P6003700",
+    "model_year": "2023",
+    "origin": "THAILAND",
+    "vehicle_description": "NISSAN XTRERRA",
+    "parse_success": true
+  },
+  "crop_image": {
+    "raw_output": "",
+    "chassis_no": null,
+    "model_year": null,
+    "origin": null,
+    "vehicle_description": null,
+    "parse_success": false
+  },
+  "ocr_status": "failed",
+  "qwen_crop_path": ""
+}

@@ -1,0 +1,2 @@
+total_images,correct_predictions,failed_predictions,accuracy,parse_success_count,parse_failure_count,failure_reason_counts
+110,107,3,0.9727272727272728,110,0,{'wrong_field': 3}
